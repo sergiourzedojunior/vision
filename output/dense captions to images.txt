@@ -1,0 +1,125 @@
+A rocky shore with water flowing over it
+A blue sky with clouds above a rocky cliff
+A rock formation with water falling
+A river with rocks in it
+A blue sky with clouds and a rocky hill
+A waterfall over rocks
+A waterfall over rocks in water
+A close up of a cloud
+A body of water with rocks and rocks
+A white circle on a gray surface
+
+{
+  "apim-request-id": "6289cabd-dce4-4b22-aa8a-ce5ca501ca92",
+  "content-length": "1346",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a rocky shore with water flowing over it",
+        "confidence": 0.588169515132904,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1468,
+          "h": 3264
+        }
+      },
+      {
+        "text": "a blue sky with clouds above a rocky cliff",
+        "confidence": 0.6673049330711365,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1422,
+          "h": 1630
+        }
+      },
+      {
+        "text": "a rock formation with water falling",
+        "confidence": 0.569227933883667,
+        "boundingBox": {
+          "x": 844,
+          "y": 1346,
+          "w": 600,
+          "h": 670
+        }
+      },
+      {
+        "text": "a river with rocks in it",
+        "confidence": 0.5907911062240601,
+        "boundingBox": {
+          "x": 0,
+          "y": 1634,
+          "w": 1419,
+          "h": 1584
+        }
+      },
+      {
+        "text": "a blue sky with clouds and a rocky hill",
+        "confidence": 0.5735502243041992,
+        "boundingBox": {
+          "x": 4,
+          "y": 1618,
+          "w": 213,
+          "h": 104
+        }
+      },
+      {
+        "text": "a waterfall over rocks",
+        "confidence": 0.6220628023147583,
+        "boundingBox": {
+          "x": 753,
+          "y": 1552,
+          "w": 163,
+          "h": 158
+        }
+      },
+      {
+        "text": "a waterfall over rocks in water",
+        "confidence": 0.6146538853645325,
+        "boundingBox": {
+          "x": 192,
+          "y": 1340,
+          "w": 1257,
+          "h": 631
+        }
+      },
+      {
+        "text": "a close up of a cloud",
+        "confidence": 0.6482141017913818,
+        "boundingBox": {
+          "x": 1090,
+          "y": 1621,
+          "w": 104,
+          "h": 76
+        }
+      },
+      {
+        "text": "a body of water with rocks and rocks",
+        "confidence": 0.6764188408851624,
+        "boundingBox": {
+          "x": 776,
+          "y": 1792,
+          "w": 674,
+          "h": 510
+        }
+      },
+      {
+        "text": "a white circle on a gray surface",
+        "confidence": 0.6915690898895264,
+        "boundingBox": {
+          "x": 934,
+          "y": 2226,
+          "w": 100,
+          "h": 84
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1468,
+    "height": 3264
+  }
+}

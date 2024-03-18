@@ -1,0 +1,85 @@
+text (98.83%)
+computer (93.17%)
+output device (92.85%)
+display device (90.93%)
+indoor (89.67%)
+computer monitor (88.50%)
+flat panel display (88.07%)
+screen (87.10%)
+television (85.98%)
+electronic device (85.44%)
+led-backlit lcd display (84.93%)
+office supplies (84.80%)
+office equipment (84.21%)
+television set (84.02%)
+
+{
+  "apim-request-id": "deda661e-7719-49e2-b703-2d0a5a3cf4b8",
+  "content-length": "883",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 81,
+    "height": 89
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "text",
+        "confidence": 0.9882834553718567
+      },
+      {
+        "name": "computer",
+        "confidence": 0.9316564798355103
+      },
+      {
+        "name": "output device",
+        "confidence": 0.9285485744476318
+      },
+      {
+        "name": "display device",
+        "confidence": 0.909325122833252
+      },
+      {
+        "name": "indoor",
+        "confidence": 0.89667809009552
+      },
+      {
+        "name": "computer monitor",
+        "confidence": 0.8850125074386597
+      },
+      {
+        "name": "flat panel display",
+        "confidence": 0.8806869983673096
+      },
+      {
+        "name": "screen",
+        "confidence": 0.8709522485733032
+      },
+      {
+        "name": "television",
+        "confidence": 0.8597725033760071
+      },
+      {
+        "name": "electronic device",
+        "confidence": 0.8543868064880371
+      },
+      {
+        "name": "led-backlit lcd display",
+        "confidence": 0.8493286967277527
+      },
+      {
+        "name": "office supplies",
+        "confidence": 0.847956657409668
+      },
+      {
+        "name": "office equipment",
+        "confidence": 0.8420727849006653
+      },
+      {
+        "name": "television set",
+        "confidence": 0.8401788473129272
+      }
+    ]
+  }
+}

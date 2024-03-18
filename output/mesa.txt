@@ -1,0 +1,30 @@
+diagram (87.42%)
+line (84.91%)
+design (68.07%)
+
+{
+  "apim-request-id": "6e8bbe99-fe67-40a5-8fe2-c9dab2848b70",
+  "content-length": "242",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 561,
+    "height": 460
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "diagram",
+        "confidence": 0.8742144703865051
+      },
+      {
+        "name": "line",
+        "confidence": 0.8490766286849976
+      },
+      {
+        "name": "design",
+        "confidence": 0.6807301044464111
+      }
+    ]
+  }
+}
